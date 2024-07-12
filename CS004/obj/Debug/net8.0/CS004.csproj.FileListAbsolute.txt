@@ -1,0 +1,14 @@
+C:\Users\noobCode\Desktop\CS\CS004\bin\Debug\net8.0\CS004.exe
+C:\Users\noobCode\Desktop\CS\CS004\bin\Debug\net8.0\CS004.deps.json
+C:\Users\noobCode\Desktop\CS\CS004\bin\Debug\net8.0\CS004.runtimeconfig.json
+C:\Users\noobCode\Desktop\CS\CS004\bin\Debug\net8.0\CS004.dll
+C:\Users\noobCode\Desktop\CS\CS004\bin\Debug\net8.0\CS004.pdb
+C:\Users\noobCode\Desktop\CS\CS004\obj\Debug\net8.0\CS004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noobCode\Desktop\CS\CS004\obj\Debug\net8.0\CS004.AssemblyInfoInputs.cache
+C:\Users\noobCode\Desktop\CS\CS004\obj\Debug\net8.0\CS004.AssemblyInfo.cs
+C:\Users\noobCode\Desktop\CS\CS004\obj\Debug\net8.0\CS004.csproj.CoreCompileInputs.cache
+C:\Users\noobCode\Desktop\CS\CS004\obj\Debug\net8.0\CS004.dll
+C:\Users\noobCode\Desktop\CS\CS004\obj\Debug\net8.0\refint\CS004.dll
+C:\Users\noobCode\Desktop\CS\CS004\obj\Debug\net8.0\CS004.pdb
+C:\Users\noobCode\Desktop\CS\CS004\obj\Debug\net8.0\CS004.genruntimeconfig.cache
+C:\Users\noobCode\Desktop\CS\CS004\obj\Debug\net8.0\ref\CS004.dll
