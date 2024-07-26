@@ -1,0 +1,15 @@
+D:\Learn\C#\learn\CS\CS012_Enum\bin\Debug\net8.0\CS012_Enum.exe
+D:\Learn\C#\learn\CS\CS012_Enum\bin\Debug\net8.0\CS012_Enum.deps.json
+D:\Learn\C#\learn\CS\CS012_Enum\bin\Debug\net8.0\CS012_Enum.runtimeconfig.json
+D:\Learn\C#\learn\CS\CS012_Enum\bin\Debug\net8.0\CS012_Enum.dll
+D:\Learn\C#\learn\CS\CS012_Enum\bin\Debug\net8.0\CS012_Enum.pdb
+D:\Learn\C#\learn\CS\CS012_Enum\obj\Debug\net8.0\CS012_Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\learn\CS\CS012_Enum\obj\Debug\net8.0\CS012_Enum.AssemblyInfoInputs.cache
+D:\Learn\C#\learn\CS\CS012_Enum\obj\Debug\net8.0\CS012_Enum.AssemblyInfo.cs
+D:\Learn\C#\learn\CS\CS012_Enum\obj\Debug\net8.0\CS012_Enum.csproj.CoreCompileInputs.cache
+D:\Learn\C#\learn\CS\CS012_Enum\obj\Debug\net8.0\CS012_Enum.sourcelink.json
+D:\Learn\C#\learn\CS\CS012_Enum\obj\Debug\net8.0\CS012_Enum.dll
+D:\Learn\C#\learn\CS\CS012_Enum\obj\Debug\net8.0\refint\CS012_Enum.dll
+D:\Learn\C#\learn\CS\CS012_Enum\obj\Debug\net8.0\CS012_Enum.pdb
+D:\Learn\C#\learn\CS\CS012_Enum\obj\Debug\net8.0\CS012_Enum.genruntimeconfig.cache
+D:\Learn\C#\learn\CS\CS012_Enum\obj\Debug\net8.0\ref\CS012_Enum.dll

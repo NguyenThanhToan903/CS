@@ -1,0 +1,15 @@
+D:\Learn\C#\learn\CS\CS012_structEnum\bin\Debug\net8.0\CS012_structEnum.exe
+D:\Learn\C#\learn\CS\CS012_structEnum\bin\Debug\net8.0\CS012_structEnum.deps.json
+D:\Learn\C#\learn\CS\CS012_structEnum\bin\Debug\net8.0\CS012_structEnum.runtimeconfig.json
+D:\Learn\C#\learn\CS\CS012_structEnum\bin\Debug\net8.0\CS012_structEnum.dll
+D:\Learn\C#\learn\CS\CS012_structEnum\bin\Debug\net8.0\CS012_structEnum.pdb
+D:\Learn\C#\learn\CS\CS012_structEnum\obj\Debug\net8.0\CS012_structEnum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\learn\CS\CS012_structEnum\obj\Debug\net8.0\CS012_structEnum.AssemblyInfoInputs.cache
+D:\Learn\C#\learn\CS\CS012_structEnum\obj\Debug\net8.0\CS012_structEnum.AssemblyInfo.cs
+D:\Learn\C#\learn\CS\CS012_structEnum\obj\Debug\net8.0\CS012_structEnum.csproj.CoreCompileInputs.cache
+D:\Learn\C#\learn\CS\CS012_structEnum\obj\Debug\net8.0\CS012_structEnum.sourcelink.json
+D:\Learn\C#\learn\CS\CS012_structEnum\obj\Debug\net8.0\CS012_structEnum.dll
+D:\Learn\C#\learn\CS\CS012_structEnum\obj\Debug\net8.0\refint\CS012_structEnum.dll
+D:\Learn\C#\learn\CS\CS012_structEnum\obj\Debug\net8.0\CS012_structEnum.pdb
+D:\Learn\C#\learn\CS\CS012_structEnum\obj\Debug\net8.0\CS012_structEnum.genruntimeconfig.cache
+D:\Learn\C#\learn\CS\CS012_structEnum\obj\Debug\net8.0\ref\CS012_structEnum.dll

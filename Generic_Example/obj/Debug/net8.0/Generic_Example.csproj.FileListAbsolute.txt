@@ -1,0 +1,15 @@
+D:\Learn\C#\learn\CS\Generic_Example\bin\Debug\net8.0\Generic_Example.exe
+D:\Learn\C#\learn\CS\Generic_Example\bin\Debug\net8.0\Generic_Example.deps.json
+D:\Learn\C#\learn\CS\Generic_Example\bin\Debug\net8.0\Generic_Example.runtimeconfig.json
+D:\Learn\C#\learn\CS\Generic_Example\bin\Debug\net8.0\Generic_Example.dll
+D:\Learn\C#\learn\CS\Generic_Example\bin\Debug\net8.0\Generic_Example.pdb
+D:\Learn\C#\learn\CS\Generic_Example\obj\Debug\net8.0\Generic_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\learn\CS\Generic_Example\obj\Debug\net8.0\Generic_Example.AssemblyInfoInputs.cache
+D:\Learn\C#\learn\CS\Generic_Example\obj\Debug\net8.0\Generic_Example.AssemblyInfo.cs
+D:\Learn\C#\learn\CS\Generic_Example\obj\Debug\net8.0\Generic_Example.csproj.CoreCompileInputs.cache
+D:\Learn\C#\learn\CS\Generic_Example\obj\Debug\net8.0\Generic_Example.sourcelink.json
+D:\Learn\C#\learn\CS\Generic_Example\obj\Debug\net8.0\Generic_Example.dll
+D:\Learn\C#\learn\CS\Generic_Example\obj\Debug\net8.0\refint\Generic_Example.dll
+D:\Learn\C#\learn\CS\Generic_Example\obj\Debug\net8.0\Generic_Example.pdb
+D:\Learn\C#\learn\CS\Generic_Example\obj\Debug\net8.0\Generic_Example.genruntimeconfig.cache
+D:\Learn\C#\learn\CS\Generic_Example\obj\Debug\net8.0\ref\Generic_Example.dll

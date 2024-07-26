@@ -1,0 +1,15 @@
+D:\Learn\C#\learn\CS\CS_Lamda\bin\Debug\net8.0\CS_Lamda.exe
+D:\Learn\C#\learn\CS\CS_Lamda\bin\Debug\net8.0\CS_Lamda.deps.json
+D:\Learn\C#\learn\CS\CS_Lamda\bin\Debug\net8.0\CS_Lamda.runtimeconfig.json
+D:\Learn\C#\learn\CS\CS_Lamda\bin\Debug\net8.0\CS_Lamda.dll
+D:\Learn\C#\learn\CS\CS_Lamda\bin\Debug\net8.0\CS_Lamda.pdb
+D:\Learn\C#\learn\CS\CS_Lamda\obj\Debug\net8.0\CS_Lamda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\learn\CS\CS_Lamda\obj\Debug\net8.0\CS_Lamda.AssemblyInfoInputs.cache
+D:\Learn\C#\learn\CS\CS_Lamda\obj\Debug\net8.0\CS_Lamda.AssemblyInfo.cs
+D:\Learn\C#\learn\CS\CS_Lamda\obj\Debug\net8.0\CS_Lamda.csproj.CoreCompileInputs.cache
+D:\Learn\C#\learn\CS\CS_Lamda\obj\Debug\net8.0\CS_Lamda.sourcelink.json
+D:\Learn\C#\learn\CS\CS_Lamda\obj\Debug\net8.0\CS_Lamda.dll
+D:\Learn\C#\learn\CS\CS_Lamda\obj\Debug\net8.0\refint\CS_Lamda.dll
+D:\Learn\C#\learn\CS\CS_Lamda\obj\Debug\net8.0\CS_Lamda.pdb
+D:\Learn\C#\learn\CS\CS_Lamda\obj\Debug\net8.0\CS_Lamda.genruntimeconfig.cache
+D:\Learn\C#\learn\CS\CS_Lamda\obj\Debug\net8.0\ref\CS_Lamda.dll

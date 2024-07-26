@@ -4,7 +4,8 @@ namespace CS004
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)2
+        
         {
             int a;
             Console.WriteLine("Nhap so a: ");

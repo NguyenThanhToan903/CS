@@ -1,0 +1,15 @@
+D:\Learn\C#\learn\CS\CS_NS_EXAMPLE\bin\Debug\net8.0\CS_NS_EXAMPLE.exe
+D:\Learn\C#\learn\CS\CS_NS_EXAMPLE\bin\Debug\net8.0\CS_NS_EXAMPLE.deps.json
+D:\Learn\C#\learn\CS\CS_NS_EXAMPLE\bin\Debug\net8.0\CS_NS_EXAMPLE.runtimeconfig.json
+D:\Learn\C#\learn\CS\CS_NS_EXAMPLE\bin\Debug\net8.0\CS_NS_EXAMPLE.dll
+D:\Learn\C#\learn\CS\CS_NS_EXAMPLE\bin\Debug\net8.0\CS_NS_EXAMPLE.pdb
+D:\Learn\C#\learn\CS\CS_NS_EXAMPLE\obj\Debug\net8.0\CS_NS_EXAMPLE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\learn\CS\CS_NS_EXAMPLE\obj\Debug\net8.0\CS_NS_EXAMPLE.AssemblyInfoInputs.cache
+D:\Learn\C#\learn\CS\CS_NS_EXAMPLE\obj\Debug\net8.0\CS_NS_EXAMPLE.AssemblyInfo.cs
+D:\Learn\C#\learn\CS\CS_NS_EXAMPLE\obj\Debug\net8.0\CS_NS_EXAMPLE.csproj.CoreCompileInputs.cache
+D:\Learn\C#\learn\CS\CS_NS_EXAMPLE\obj\Debug\net8.0\CS_NS_EXAMPLE.sourcelink.json
+D:\Learn\C#\learn\CS\CS_NS_EXAMPLE\obj\Debug\net8.0\CS_NS_EXAMPLE.dll
+D:\Learn\C#\learn\CS\CS_NS_EXAMPLE\obj\Debug\net8.0\refint\CS_NS_EXAMPLE.dll
+D:\Learn\C#\learn\CS\CS_NS_EXAMPLE\obj\Debug\net8.0\CS_NS_EXAMPLE.pdb
+D:\Learn\C#\learn\CS\CS_NS_EXAMPLE\obj\Debug\net8.0\CS_NS_EXAMPLE.genruntimeconfig.cache
+D:\Learn\C#\learn\CS\CS_NS_EXAMPLE\obj\Debug\net8.0\ref\CS_NS_EXAMPLE.dll

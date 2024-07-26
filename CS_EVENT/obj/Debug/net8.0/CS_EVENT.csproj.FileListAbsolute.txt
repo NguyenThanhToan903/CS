@@ -1,0 +1,15 @@
+D:\Learn\C#\learn\CS\CS_EVENT\bin\Debug\net8.0\CS_EVENT.exe
+D:\Learn\C#\learn\CS\CS_EVENT\bin\Debug\net8.0\CS_EVENT.deps.json
+D:\Learn\C#\learn\CS\CS_EVENT\bin\Debug\net8.0\CS_EVENT.runtimeconfig.json
+D:\Learn\C#\learn\CS\CS_EVENT\bin\Debug\net8.0\CS_EVENT.dll
+D:\Learn\C#\learn\CS\CS_EVENT\bin\Debug\net8.0\CS_EVENT.pdb
+D:\Learn\C#\learn\CS\CS_EVENT\obj\Debug\net8.0\CS_EVENT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\learn\CS\CS_EVENT\obj\Debug\net8.0\CS_EVENT.AssemblyInfoInputs.cache
+D:\Learn\C#\learn\CS\CS_EVENT\obj\Debug\net8.0\CS_EVENT.AssemblyInfo.cs
+D:\Learn\C#\learn\CS\CS_EVENT\obj\Debug\net8.0\CS_EVENT.csproj.CoreCompileInputs.cache
+D:\Learn\C#\learn\CS\CS_EVENT\obj\Debug\net8.0\CS_EVENT.sourcelink.json
+D:\Learn\C#\learn\CS\CS_EVENT\obj\Debug\net8.0\CS_EVENT.dll
+D:\Learn\C#\learn\CS\CS_EVENT\obj\Debug\net8.0\refint\CS_EVENT.dll
+D:\Learn\C#\learn\CS\CS_EVENT\obj\Debug\net8.0\CS_EVENT.pdb
+D:\Learn\C#\learn\CS\CS_EVENT\obj\Debug\net8.0\CS_EVENT.genruntimeconfig.cache
+D:\Learn\C#\learn\CS\CS_EVENT\obj\Debug\net8.0\ref\CS_EVENT.dll

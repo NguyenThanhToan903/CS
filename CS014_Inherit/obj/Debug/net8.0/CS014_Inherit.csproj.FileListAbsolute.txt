@@ -1,0 +1,15 @@
+D:\Learn\C#\learn\CS\CS014_Inherit\bin\Debug\net8.0\CS014_Inherit.exe
+D:\Learn\C#\learn\CS\CS014_Inherit\bin\Debug\net8.0\CS014_Inherit.deps.json
+D:\Learn\C#\learn\CS\CS014_Inherit\bin\Debug\net8.0\CS014_Inherit.runtimeconfig.json
+D:\Learn\C#\learn\CS\CS014_Inherit\bin\Debug\net8.0\CS014_Inherit.dll
+D:\Learn\C#\learn\CS\CS014_Inherit\bin\Debug\net8.0\CS014_Inherit.pdb
+D:\Learn\C#\learn\CS\CS014_Inherit\obj\Debug\net8.0\CS014_Inherit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\learn\CS\CS014_Inherit\obj\Debug\net8.0\CS014_Inherit.AssemblyInfoInputs.cache
+D:\Learn\C#\learn\CS\CS014_Inherit\obj\Debug\net8.0\CS014_Inherit.AssemblyInfo.cs
+D:\Learn\C#\learn\CS\CS014_Inherit\obj\Debug\net8.0\CS014_Inherit.csproj.CoreCompileInputs.cache
+D:\Learn\C#\learn\CS\CS014_Inherit\obj\Debug\net8.0\CS014_Inherit.sourcelink.json
+D:\Learn\C#\learn\CS\CS014_Inherit\obj\Debug\net8.0\CS014_Inherit.dll
+D:\Learn\C#\learn\CS\CS014_Inherit\obj\Debug\net8.0\refint\CS014_Inherit.dll
+D:\Learn\C#\learn\CS\CS014_Inherit\obj\Debug\net8.0\CS014_Inherit.pdb
+D:\Learn\C#\learn\CS\CS014_Inherit\obj\Debug\net8.0\CS014_Inherit.genruntimeconfig.cache
+D:\Learn\C#\learn\CS\CS014_Inherit\obj\Debug\net8.0\ref\CS014_Inherit.dll
