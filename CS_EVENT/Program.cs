@@ -9,11 +9,9 @@ namespace CS_EVENT
             subsriber -> class - nhan su kien
             
         */
-
         public delegate void SuKienNhapSo(int x);
 
         // publisher
-
         class UserInput
         {
             public SuKienNhapSo suKienNhapSo { set; get; }
