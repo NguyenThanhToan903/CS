@@ -7,7 +7,6 @@ namespace CS_EVENT
         /*
             publisher -> class - phat su kien
             subsriber -> class - nhan su kien
-            
         */
         public delegate void SuKienNhapSo(int x);
 
