@@ -1,0 +1,15 @@
+D:\Learn\C#\learn\CS\CS_EXTENSIONMETHOD\bin\Debug\net8.0\CS_EXTENSIONMETHOD.exe
+D:\Learn\C#\learn\CS\CS_EXTENSIONMETHOD\bin\Debug\net8.0\CS_EXTENSIONMETHOD.deps.json
+D:\Learn\C#\learn\CS\CS_EXTENSIONMETHOD\bin\Debug\net8.0\CS_EXTENSIONMETHOD.runtimeconfig.json
+D:\Learn\C#\learn\CS\CS_EXTENSIONMETHOD\bin\Debug\net8.0\CS_EXTENSIONMETHOD.dll
+D:\Learn\C#\learn\CS\CS_EXTENSIONMETHOD\bin\Debug\net8.0\CS_EXTENSIONMETHOD.pdb
+D:\Learn\C#\learn\CS\CS_EXTENSIONMETHOD\obj\Debug\net8.0\CS_EXTENSIONMETHOD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\learn\CS\CS_EXTENSIONMETHOD\obj\Debug\net8.0\CS_EXTENSIONMETHOD.AssemblyInfoInputs.cache
+D:\Learn\C#\learn\CS\CS_EXTENSIONMETHOD\obj\Debug\net8.0\CS_EXTENSIONMETHOD.AssemblyInfo.cs
+D:\Learn\C#\learn\CS\CS_EXTENSIONMETHOD\obj\Debug\net8.0\CS_EXTENSIONMETHOD.csproj.CoreCompileInputs.cache
+D:\Learn\C#\learn\CS\CS_EXTENSIONMETHOD\obj\Debug\net8.0\CS_EXTENSIONMETHOD.sourcelink.json
+D:\Learn\C#\learn\CS\CS_EXTENSIONMETHOD\obj\Debug\net8.0\CS_EXTENSIONMETHOD.dll
+D:\Learn\C#\learn\CS\CS_EXTENSIONMETHOD\obj\Debug\net8.0\refint\CS_EXTENSIONMETHOD.dll
+D:\Learn\C#\learn\CS\CS_EXTENSIONMETHOD\obj\Debug\net8.0\CS_EXTENSIONMETHOD.pdb
+D:\Learn\C#\learn\CS\CS_EXTENSIONMETHOD\obj\Debug\net8.0\CS_EXTENSIONMETHOD.genruntimeconfig.cache
+D:\Learn\C#\learn\CS\CS_EXTENSIONMETHOD\obj\Debug\net8.0\ref\CS_EXTENSIONMETHOD.dll

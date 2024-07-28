@@ -1,0 +1,15 @@
+D:\Learn\C#\learn\CS\CS_017\bin\Debug\net8.0\CS_017.exe
+D:\Learn\C#\learn\CS\CS_017\bin\Debug\net8.0\CS_017.deps.json
+D:\Learn\C#\learn\CS\CS_017\bin\Debug\net8.0\CS_017.runtimeconfig.json
+D:\Learn\C#\learn\CS\CS_017\bin\Debug\net8.0\CS_017.dll
+D:\Learn\C#\learn\CS\CS_017\bin\Debug\net8.0\CS_017.pdb
+D:\Learn\C#\learn\CS\CS_017\obj\Debug\net8.0\CS_017.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\learn\CS\CS_017\obj\Debug\net8.0\CS_017.AssemblyInfoInputs.cache
+D:\Learn\C#\learn\CS\CS_017\obj\Debug\net8.0\CS_017.AssemblyInfo.cs
+D:\Learn\C#\learn\CS\CS_017\obj\Debug\net8.0\CS_017.csproj.CoreCompileInputs.cache
+D:\Learn\C#\learn\CS\CS_017\obj\Debug\net8.0\CS_017.sourcelink.json
+D:\Learn\C#\learn\CS\CS_017\obj\Debug\net8.0\CS_017.dll
+D:\Learn\C#\learn\CS\CS_017\obj\Debug\net8.0\refint\CS_017.dll
+D:\Learn\C#\learn\CS\CS_017\obj\Debug\net8.0\CS_017.pdb
+D:\Learn\C#\learn\CS\CS_017\obj\Debug\net8.0\CS_017.genruntimeconfig.cache
+D:\Learn\C#\learn\CS\CS_017\obj\Debug\net8.0\ref\CS_017.dll
