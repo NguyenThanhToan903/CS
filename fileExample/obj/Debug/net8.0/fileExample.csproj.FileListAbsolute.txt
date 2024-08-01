@@ -1,0 +1,15 @@
+D:\Learn\C#\learn\CS\fileExample\bin\Debug\net8.0\fileExample.exe
+D:\Learn\C#\learn\CS\fileExample\bin\Debug\net8.0\fileExample.deps.json
+D:\Learn\C#\learn\CS\fileExample\bin\Debug\net8.0\fileExample.runtimeconfig.json
+D:\Learn\C#\learn\CS\fileExample\bin\Debug\net8.0\fileExample.dll
+D:\Learn\C#\learn\CS\fileExample\bin\Debug\net8.0\fileExample.pdb
+D:\Learn\C#\learn\CS\fileExample\obj\Debug\net8.0\fileExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\learn\CS\fileExample\obj\Debug\net8.0\fileExample.AssemblyInfoInputs.cache
+D:\Learn\C#\learn\CS\fileExample\obj\Debug\net8.0\fileExample.AssemblyInfo.cs
+D:\Learn\C#\learn\CS\fileExample\obj\Debug\net8.0\fileExample.csproj.CoreCompileInputs.cache
+D:\Learn\C#\learn\CS\fileExample\obj\Debug\net8.0\fileExample.sourcelink.json
+D:\Learn\C#\learn\CS\fileExample\obj\Debug\net8.0\fileExample.dll
+D:\Learn\C#\learn\CS\fileExample\obj\Debug\net8.0\refint\fileExample.dll
+D:\Learn\C#\learn\CS\fileExample\obj\Debug\net8.0\fileExample.pdb
+D:\Learn\C#\learn\CS\fileExample\obj\Debug\net8.0\fileExample.genruntimeconfig.cache
+D:\Learn\C#\learn\CS\fileExample\obj\Debug\net8.0\ref\fileExample.dll

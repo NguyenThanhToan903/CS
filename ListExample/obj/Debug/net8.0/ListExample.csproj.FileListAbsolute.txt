@@ -1,0 +1,15 @@
+D:\Learn\C#\learn\CS\ListExample\bin\Debug\net8.0\ListExample.exe
+D:\Learn\C#\learn\CS\ListExample\bin\Debug\net8.0\ListExample.deps.json
+D:\Learn\C#\learn\CS\ListExample\bin\Debug\net8.0\ListExample.runtimeconfig.json
+D:\Learn\C#\learn\CS\ListExample\bin\Debug\net8.0\ListExample.dll
+D:\Learn\C#\learn\CS\ListExample\bin\Debug\net8.0\ListExample.pdb
+D:\Learn\C#\learn\CS\ListExample\obj\Debug\net8.0\ListExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\learn\CS\ListExample\obj\Debug\net8.0\ListExample.AssemblyInfoInputs.cache
+D:\Learn\C#\learn\CS\ListExample\obj\Debug\net8.0\ListExample.AssemblyInfo.cs
+D:\Learn\C#\learn\CS\ListExample\obj\Debug\net8.0\ListExample.csproj.CoreCompileInputs.cache
+D:\Learn\C#\learn\CS\ListExample\obj\Debug\net8.0\ListExample.sourcelink.json
+D:\Learn\C#\learn\CS\ListExample\obj\Debug\net8.0\ListExample.dll
+D:\Learn\C#\learn\CS\ListExample\obj\Debug\net8.0\refint\ListExample.dll
+D:\Learn\C#\learn\CS\ListExample\obj\Debug\net8.0\ListExample.pdb
+D:\Learn\C#\learn\CS\ListExample\obj\Debug\net8.0\ListExample.genruntimeconfig.cache
+D:\Learn\C#\learn\CS\ListExample\obj\Debug\net8.0\ref\ListExample.dll
